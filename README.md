@@ -1,4 +1,6 @@
 
+[![Build Status](https://pratibhasurabhi.visualstudio.com/Pipeline_POC/_apis/build/status/sanketgarade.pipelines-java?branchName=master)](https://pratibhasurabhi.visualstudio.com/Pipeline_POC/_build/latest?definitionId=4&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
